@@ -10,5 +10,3 @@
 
 Se solicita que se ingresen dos valores y al presionar el boton de sumar,
 despliega el resultado.
-
-###End
